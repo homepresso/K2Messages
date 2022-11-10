@@ -1,7 +1,7 @@
 name: k2postmessage
 description: Flutter Package to send Messages to a K2 Form
 version: 1.0.0
-homepage:
+homepage: https://github.com/homepresso/K2Messages
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
@@ -11,16 +11,20 @@ dependencies:
   flutter:
     sdk: flutter
 
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  js: ^0.6.5
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
 flutter:
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
